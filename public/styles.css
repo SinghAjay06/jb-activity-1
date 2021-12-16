@@ -61,14 +61,10 @@ body{
     position: relative;
     left: 80px;
 }
-#image-div:hover{
-  margin-top:20px;
-  transform:scale(1.1);
-  transition: all 0.3s ease-in-out;
-}
+
 #image-div img{
     width: auto;
-    height: 600px;
+    height: 450px;
   border-radius:10px;
 }
 
@@ -83,7 +79,7 @@ body{
    left: 20px;
 }
 .landing-section-info{
-    margin-left: 50px;
+    margin-left: 40px;
     margin-bottom: 1px;
 }
 .feature{
